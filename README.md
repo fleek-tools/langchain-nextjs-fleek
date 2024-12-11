@@ -7,7 +7,7 @@ use cases. Specifically:
 - [Returning structured output from an LLM call](/app/api/chat/structured_output/route.ts)
 - [Answering complex, multi-step questions with agents](/app/api/chat/agents/route.ts)
 - [Retrieval augmented generation (RAG) with a chain and a vector store](/app/api/chat/retrieval/route.ts)
-- [Retrieval augmented generation (RAG) with an agent and a vector store](/app/api/chat/retrieval_agents/route.ts)\
+- [Retrieval augmented generation (RAG) with an agent and a vector store](/app/api/chat/retrieval_agents/route.ts)
 
 It is perfect for developers looking to build AI applications in Next.js and on Fleek seamlessly with any features they want.
 
